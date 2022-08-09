@@ -1,5 +1,5 @@
 
-![Logo](https://ik.imagekit.io/auqaxddnv/Code_Hj8NdHQbJ.img?ik-sdk-version=javascript-1.4.3&updatedAt=1660028861650)
+![Logo](https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg)
 
 
 ## 🚀 About Me
