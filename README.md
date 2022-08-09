@@ -1,6 +1,5 @@
-### Hi there 👋
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://ik.imagekit.io/auqaxddnv/Code_Hj8NdHQbJ.img?ik-sdk-version=javascript-1.4.3&updatedAt=1660028861650)
 
 
 ## 🚀 About Me
@@ -21,5 +20,4 @@ I have passion for software and learning new tools and technologies and I will b
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carmelyona)
-
 
